@@ -1,0 +1,39 @@
+body{
+   
+}
+.primary-background{
+    background:#3d5afe!important;
+}
+#caccount:hover{
+    text-decoration:none;
+    background-color:grey;
+    opacity:0.7;
+}
+
+#btn{
+margin-left:90%;
+}
+#th1{
+    background-color:#9be7e8;
+}
+
+input:hover{
+    background-color:black;
+    opacity:0.7;
+    color:white;
+    font-weight:bold;
+}
+.icon{
+    display:flex;
+    font-size:30px
+}
+#heading{
+    text-align:center;
+/*    background-image:linear-gradient(#dbaca2,#ad351c)!important;*/
+}
+#img{
+    background-color:#f7bdfc;
+}
+#image{
+    background-image:linear-gradient(#dbaca2,#ad351c);
+}
